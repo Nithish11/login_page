@@ -8,7 +8,7 @@ class login_page extends StatelessWidget {
     return Scaffold(
            appBar: AppBar(
             leading: Icon(Icons.menu),
-            title: Text("Login "),
+            title: Text("Login and new user "),
            ),
            body: Column(
              
